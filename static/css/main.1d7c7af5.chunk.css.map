@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,iBACE,SACF","file":"main.1d7c7af5.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.warning_message {\n  color: red;\n}\n"]}
